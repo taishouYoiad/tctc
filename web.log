@@ -1,0 +1,9 @@
+nohup: ignoring input
+WARNING:tornado.access:404 GET /favicon.ico (180.159.249.57) 0.46ms
+WARNING:tornado.access:404 GET /js/jquery.stacktable.js (223.104.212.102) 0.45ms
+WARNING:tornado.access:404 GET /engine (223.104.212.102) 0.45ms
+WARNING:tornado.access:404 GET /apple-touch-icon-precomposed.png (223.104.212.79) 0.48ms
+WARNING:tornado.access:404 GET /apple-touch-icon.png (223.104.212.79) 0.47ms
+WARNING:tornado.access:404 GET /favicon.ico (223.104.212.79) 0.44ms
+WARNING:tornado.access:404 GET /simulate.html (223.104.212.79) 0.41ms
+WARNING:tornado.access:404 GET /favicon.ico (180.159.249.57) 0.47ms
